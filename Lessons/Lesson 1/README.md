@@ -6,6 +6,6 @@ Visual Studio Community can be downloaded [here](https://visualstudio.microsoft.
 
 You can download MDK [here](https://github.com/malware-dev/MDK-SE/releases) and Malware's awesome wiki [here](https://github.com/malware-dev/MDK-SE/wiki)
 
-You can find me on [Tiamat](https://discord.gg/bGqrxNwv) Discord server.
+You can find me on [Tiamat](https://discord.gg/bGqrxNwv) Discord server. Futher lessons will be streamed on my [Twitch](https://www.twitch.tv/onyxblackstone) and will be announced on Tiamat Discord.
 
 Happy coding!
